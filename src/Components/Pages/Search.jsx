@@ -24,11 +24,7 @@ const Search = () => {
       setLoading(true);
       try {
         const response = await Axios.get(
-          `
-
-
-
-https://food-backend-eta.vercel.app/api/items`,
+          `https://food-backend-eta.vercel.app/api/items`,
           {
             params: { q: query },
           }
