@@ -3,7 +3,14 @@
 
 ## Desktop View
 
+https://github.com/user-attachments/assets/d8c723ba-934b-46b3-ab7e-9c08c20e25dd
+
+
 ## Mobile View
+
+https://github.com/user-attachments/assets/00a46447-c61d-47c9-b884-9ee4c37dd639
+
+
 
 
 ![Screenshot (1941)](https://github.com/user-attachments/assets/e6660f84-920a-41a9-8653-8b103e3725d2)
